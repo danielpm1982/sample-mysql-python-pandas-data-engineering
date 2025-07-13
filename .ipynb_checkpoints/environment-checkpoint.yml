@@ -1,0 +1,10 @@
+name: /home/daniel/anaconda-workspace/sample-mysql-python-pandas-data-engineering/env
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - jupyter
+  - pandas
+  - python
+prefix: /home/daniel/anaconda-workspace/sample-mysql-python-pandas-data-engineering/env
