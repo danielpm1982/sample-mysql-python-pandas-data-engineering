@@ -28,6 +28,8 @@ Regarding the database, in order that Python can manipulate it, you should have 
 
 ![](https://raw.githubusercontent.com/danielpm1982/sample-mysql-python-pandas-data-engineering/refs/heads/master/select_view_2.png)
 
+![Relational Model of DB Schema](https://github.com/danielpm1982/sample-mysql-python-pandas-data-engineering/blob/master/relational_model.png?raw=true)
+
 [**Support**]<br>
 If you have any suggestion or correction about the content of this repository, please, feel free to open an issue at the project issues' section:<br>
 https://github.com/danielpm1982/sample-mysql-python-pandas-data-engineering/issues
