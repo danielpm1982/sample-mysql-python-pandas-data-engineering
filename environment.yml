@@ -7,4 +7,6 @@ dependencies:
   - jupyter
   - pandas
   - python
+  - pymysql
+  - sqlalchemy
 prefix: /home/daniel/anaconda-workspace/sample-mysql-python-pandas-data-engineering/env
